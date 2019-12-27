@@ -1,0 +1,27 @@
+ul {
+    margin-left: 90%;
+    margin-bottom: 20%;
+}
+
+li {
+    display: inline;    
+}
+
+.info-container{
+    
+}
+
+body {
+    background-color:white;
+    margin-top: 20px; 
+}
+
+.img {
+    float: center 
+}
+
+.header-container{
+    background-color: #4aaaa5;
+}
+
+          
