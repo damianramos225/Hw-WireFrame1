@@ -1,6 +1,6 @@
-ul {
-    margin-left: 90%;
-    margin-bottom: 20%;
+.header-container {
+    margin-left: 85%;
+    margin-bottom: 5%;
 }
 
 li {
@@ -20,7 +20,7 @@ body {
     float: center 
 }
 
-.header-container{
+.header-container {
     background-color: #4aaaa5;
 }
 
