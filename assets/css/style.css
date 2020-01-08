@@ -1,15 +1,13 @@
-.header-container {
+.container {
     margin-left: 85%;
     margin-bottom: 5%;
+    display: flex;
 }
 
 li {
     display: inline;    
 }
 
-.info-container{
-    
-}
 
 body {
     background-color:white;
@@ -20,7 +18,7 @@ body {
     float: center 
 }
 
-.header-container {
+.container {
     background-color: #4aaaa5;
 }
 
